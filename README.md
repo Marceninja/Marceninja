@@ -8,9 +8,8 @@ I'm a front-end developer. I'm passionate about Web, and I love to code. In my f
 
 . Some of the projects I've worked on include:
 
-- [Project 1]: [Brief description of what the project does]
-- [Project 2]: [Brief description of what the project does]
-- [Project 3]: [Brief description of what the project does]
+- [Meme generator  🥸]: [Webpage](https://mymemegenerator.netlify.app/)
+- [Snake game]: [Webpage](https://snake-game-js-michal.netlify.app/)
 
 ## How to Reach Me
 
