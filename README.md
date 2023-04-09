@@ -9,7 +9,7 @@ I'm a front-end developer. I'm passionate about Web, and I love to code. In my f
 Some of the projects I've worked on include:
 
 - [Meme generator 🥸](https://mymemegenerator.netlify.app/) - A web-based meme generator that allows users to create and share their own memes.
-- [Snake game](https://snake-game-js-michal.netlify.app/) - A classic snake game built with JavaScript.
+- [Snake game 🐍](https://snake-game-js-michal.netlify.app/) - A classic snake game built with JavaScript.
 
 ## How to Reach Me
 
