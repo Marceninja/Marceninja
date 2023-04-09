@@ -6,10 +6,10 @@ I'm a front-end developer. I'm passionate about Web, and I love to code. In my f
 
 ## What You'll Find Here
 
-. Some of the projects I've worked on include:
+Some of the projects I've worked on include:
 
-- [Meme generator  🥸]: [Webpage](https://mymemegenerator.netlify.app/)
-- [Snake game]: [Webpage](https://snake-game-js-michal.netlify.app/)
+- [Meme generator 🥸](https://mymemegenerator.netlify.app/) - A web-based meme generator that allows users to create and share their own memes.
+- [Snake game](https://snake-game-js-michal.netlify.app/) - A classic snake game built with JavaScript.
 
 ## How to Reach Me
 
