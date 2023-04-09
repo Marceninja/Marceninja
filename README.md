@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a front-end developer. I'm passionate about Web, and I love to code. In my free time, I enjoy soccer.
+I'm a front-end developer. Currently I'm studieng computer science in Gdansk University of Technology. I'm passionate about Web, and I love to code. In my free time, I enjoy soccer.
 
 ## What You'll Find Here
 
